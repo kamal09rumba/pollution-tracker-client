@@ -1,3 +1,5 @@
+import React from 'react';
+
 import Home from 'container/Home';
 
 import './styles/_base.scss';
